@@ -4,7 +4,7 @@ An intelligent resume screening system that uses Natural Language Processing and
 
 ## 🌐 Live Demo
 
-**Try it now:** [Resume Screening App](your-streamlit-link-here)
+**Try it now:** [Resume Screening App](https://resume-scanning1.streamlit.app/)
 
 ## 🎯 Problem Statement
 
